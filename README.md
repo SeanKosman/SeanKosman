@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SeanKosman
-- 👀 I’m interested in the intersection between computing, linguistics, and history
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on things
+- 👀 I’m interested in satellite imagery and image recognition
+- 🌱 I’m currently learning C++ and Python
 
 <!---
 SeanKosman/SeanKosman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
